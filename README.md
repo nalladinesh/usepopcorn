@@ -1,6 +1,6 @@
 # Usepopcorn project
 
-Fetch the movie, and to watchlist and rate the movie
+Fetch the movie, add to watchlist and rate the movie
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
